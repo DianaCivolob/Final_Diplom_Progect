@@ -1,0 +1,5 @@
+node_modules
+.idea
+jest.config.ts
+package-lock.json
+package.json
